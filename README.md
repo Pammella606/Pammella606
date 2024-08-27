@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao eu perfil 🫀
 
-<!--
-**Pammella606/Pammella606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu name é pammella eduarda
 
-Here are some ideas to get you started:
+- eustou estudando [alura](https://www.alura.com.br) 
+- estou dessenvolvendo a linguagem javascript
+- utilizo esse espaço para minha organização e compartilhamento do meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ***você pode entrar em contato comigo*** 📧
+
+- pammellacezani@gmail.com
+
+- @pampam_ofc
+
+- ![](https://media.tenor.com/zQV1EHnRyVMAAAAi/stitch-love.gif)
+ 
